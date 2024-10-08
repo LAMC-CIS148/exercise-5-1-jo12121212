@@ -5,8 +5,9 @@
 
 /* the styles for the elements */
 body {
-	font-family: Arial, Helvetica, sans-serif;
-    font-size: 100%;
+    background-color: #931420;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 600px;
     margin-left: 10px;
 }
 a:focus, a:hover {
