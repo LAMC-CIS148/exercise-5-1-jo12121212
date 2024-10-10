@@ -21,7 +21,7 @@ a:focus, a:hover {
 }
 /* the styles for the header */
 header {
-	border: 3px solid #931420;
+	border-bottom: 3px solid #931420;
 }
 header h2 {
 	font-size: 175%;
@@ -46,7 +46,8 @@ main {
 main h1 {
 	font-size: 150%;
 	padding: .3em 0;
-	border: 3px solid #931420;
+	border-top: 3px solid #931420;
+	border-bottom: 3px solid #931420;
 }
 main h2 {
 	color: var(--global-color-1);
